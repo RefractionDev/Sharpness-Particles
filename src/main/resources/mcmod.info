@@ -1,0 +1,16 @@
+[
+{
+  "modid": "alwayssharp",
+  "name": "AlwaysSharp",
+  "description": "Makes sharpness particles appear even if the weapon is not enchanted with sharpness.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Refraction"],
+  "credits": "The Forge and FML guys, and powns for helping me get started with mod development.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
